@@ -1,0 +1,34 @@
+name: gaming_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/workshop_image.png
+    - assets/images/zelda_image.png
+    - assets/images/vr_image.png
+    - assets/images/zelda.jpg
+    - assets/icons/nexus_legends.png
+    - assets/images/PayPal.png
+    - assets/images/qrcode.png
+    - assets/images/Google.png
+    - assets/images/Apple.jpg
+    - assets/images/Podio.png
+    - assets/images/ruota_della_fortuna.png
+    - assets/images/Quiztime.png
+    - assets/images/Virtualtour.png
