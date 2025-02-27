@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:gaming_app/pages/homeview.dart';
-import 'pages/login.dart';
 
 void main() {
   runApp(const MainApp());
